@@ -1,0 +1,17 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:dev": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0",
+    "typescript": "^5.1.3"
+  }
+}
